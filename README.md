@@ -1,5 +1,10 @@
-# Hello Android Users
+## Hello Coders!
+**This is wackycodes**
 
-This repository will help you to get well written code for your every new projects.
+***
+You can get Android useful resources with the help of this repository.
+So check below links.
 
-**Color Resouce** :- [Click here!](https://github.com/WackyCodes/AndroidUses/blob/main/colors.xml)
+***
+### 1. Color Resource :
+ [Click Here](https://github.com/WackyCodes/AndroidUses/blob/main/colors.xml)
