@@ -9,6 +9,10 @@ So check below links.
 ### 1. Color Resource :
  [Click Here](https://github.com/WackyCodes/AndroidUses/blob/main/colors.xml)
  
+ 
+### 2. Dimens Resource :
+ [Click Here](https://github.com/WackyCodes/AndroidUses/blob/main/dimen.xml)
+ 
 ***
 
 Hello, I'm Shailendra Lodhi from Bhopal, India.
