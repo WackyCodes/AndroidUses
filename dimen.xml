@@ -1,0 +1,108 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+<!--    Dimen - Default to Use   -->
+    <dimen name="dimen_05dp">0.5dp</dimen>
+    <dimen name="dimen_1dp">1dp</dimen>
+    <dimen name="dimen_2dp">2dp</dimen>
+    <dimen name="dimen_4dp">4dp</dimen>
+    <dimen name="dimen_6dp">6dp</dimen>
+    <dimen name="dimen_8dp">8dp</dimen>
+    <dimen name="dimen_12dp">12dp</dimen>
+    <dimen name="dimen_14dp">14dp</dimen>
+    <dimen name="dimen_16dp">16dp</dimen>
+    <dimen name="dimen_18dp">18dp</dimen>
+    <dimen name="dimen_22dp">22dp</dimen>
+    <dimen name="dimen_24dp">24dp</dimen>
+    <dimen name="dimen_28dp">28dp</dimen>
+    <dimen name="dimen_32dp">32dp</dimen>
+    <dimen name="dimen_42dp">42dp</dimen>
+    <dimen name="dimen_48dp">48dp</dimen>
+    <dimen name="dimen_52dp">52dp</dimen>
+    <dimen name="dimen_56dp">56dp</dimen>
+    <dimen name="dimen_62dp">62dp</dimen>
+    <dimen name="dimen_72dp">72dp</dimen>
+
+<!--    Text Size - Default to Use   -->
+    <dimen name="size_very_small">8sp</dimen>
+    <dimen name="size_small">10sp</dimen>
+    <dimen name="size_medium">16sp</dimen>
+    <dimen name="size_normal">18sp</dimen>
+    <dimen name="size_big">22sp</dimen>
+    <dimen name="size_large">24sp</dimen>
+    <dimen name="size_extra_large">28sp</dimen>
+
+    <dimen name="size_8sp">8sp</dimen>
+    <dimen name="size_10sp">10sp</dimen>
+    <dimen name="size_12sp">12sp</dimen>
+    <dimen name="size_16sp">16sp</dimen>
+    <dimen name="size_18sp">18sp</dimen>
+    <dimen name="size_20sp">20sp</dimen>
+    <dimen name="size_22sp">22sp</dimen>
+    <dimen name="size_24sp">24sp</dimen>
+    <dimen name="size_28sp">28sp</dimen>
+
+<!--    Margin : Default to Use  -->
+    <dimen name="margin_small_2">2dp</dimen>
+    <dimen name="margin_small_4">4dp</dimen>
+    <dimen name="margin_medium_8">8dp</dimen>
+    <dimen name="margin_medium_12">12dp</dimen>
+    <dimen name="margin_medium_16">16dp</dimen>
+    <dimen name="margin_large_20">20dp</dimen>
+    <dimen name="margin_large_24">24dp</dimen>
+    <dimen name="margin_large_32">32dp</dimen>
+    <dimen name="margin_extra_large_42">42dp</dimen>
+    <dimen name="margin_extra_large_62">62dp</dimen>
+    <dimen name="margin_extra_large_72">72dp</dimen>
+
+<!--    Padding : Default to Use  -->
+    <dimen name="padding_small_2">2dp</dimen>
+    <dimen name="padding_small_4">4dp</dimen>
+    <dimen name="padding_medium_8">8dp</dimen>
+    <dimen name="padding_medium_12">12dp</dimen>
+    <dimen name="padding_medium_16">16dp</dimen>
+    <dimen name="padding_large_20">20dp</dimen>
+    <dimen name="padding_large_24">24dp</dimen>
+    <dimen name="padding_large_32">32dp</dimen>
+    <dimen name="padding_extra_large_42">42dp</dimen>
+    <dimen name="padding_extra_large_62">62dp</dimen>
+    <dimen name="padding_extra_large_72">72dp</dimen>
+
+
+<!--    Corner : Default to Use  -->
+    <dimen name="corner_small_2">2dp</dimen>
+    <dimen name="corner_small_4">4dp</dimen>
+    <dimen name="corner_medium_8">8dp</dimen>
+    <dimen name="corner_medium_12">12dp</dimen>
+    <dimen name="corner_medium_16">16dp</dimen>
+    <dimen name="corner_large_20">20dp</dimen>
+    <dimen name="corner_large_24">24dp</dimen>
+    <dimen name="corner_large_32">32dp</dimen>
+    <dimen name="corner_extra_large_42">42dp</dimen>
+    <dimen name="corner_extra_large_62">62dp</dimen>
+
+<!--    Elevation : Default to Use -->
+    <dimen name="elevation_1">1dp</dimen>
+    <dimen name="elevation_2">2dp</dimen>
+    <dimen name="elevation_4">4dp</dimen>
+    <dimen name="elevation_6">6dp</dimen>
+    <dimen name="elevation_8">8dp</dimen>
+
+<!--    Translation : Default to Use -->
+    <dimen name="translation_1">1dp</dimen>
+    <dimen name="translation_2">2dp</dimen>
+    <dimen name="translation_4">4dp</dimen>
+    <dimen name="translation_6">6dp</dimen>
+    <dimen name="translation_8">8dp</dimen>
+
+<!--   Line : Default -->
+    <dimen name="height_small_05">0.5dp</dimen>
+    <dimen name="height_small_1">1dp</dimen>
+    <dimen name="height_small_2">2dp</dimen>
+    <dimen name="height_medium_4">4dp</dimen>
+    <dimen name="height_medium_8">8dp</dimen>
+    <dimen name="height_big_12">12dp</dimen>
+
+
+</resources>
