@@ -13,6 +13,14 @@ So check below links.
 ### 2. Dimens Resource :
  [Click Here](https://github.com/WackyCodes/AndroidUses/blob/main/dimen.xml)
  
+ 
+### 3. Animation Resource :
+ [Click Here](https://github.com/WackyCodes/AndroidUses/tree/main/Animation%20XML%20Files)
+ 
+ 
+### 4. Backgounds Resource :
+ [Click Here](https://github.com/WackyCodes/AndroidUses/tree/main/Backgrounds%20-%20Buttons%2C%20TextView%2C%20EditText%20etc)
+ 
 ***
 
 Hello, I'm Shailendra Lodhi from Bhopal, India.
