@@ -5,7 +5,13 @@
 You can get Android useful resources with the help of this repository.
 So check below links.
 
+[XML Resouce](https://github.com/WackyCodes/AndroidUses#xml-resource)  | [Java Resource](https://github.com/WackyCodes/AndroidUses#java-resource)  
+
 ***
+
+### XML Resource
+-----------------------------
+
 ### 1. Color Resource :
  [Click Here](https://github.com/WackyCodes/AndroidUses/blob/main/colors.xml)
  
@@ -21,10 +27,26 @@ So check below links.
 ### 4. Backgounds Resource :
  [Click Here](https://github.com/WackyCodes/AndroidUses/tree/main/Backgrounds%20-%20Buttons%2C%20TextView%2C%20EditText%20etc)
  
+***
+***
+### Java Resource
+-----------------------------
  
-### 5. Hide Keyboard / IME Option :
- [Click Here](https://github.com/WackyCodes/AndroidUses/blob/main/Upload%20Code/hide_keyboard.java)
+### 1. Hide Keyboard / IME Option : [Click Here](https://github.com/WackyCodes/AndroidUses/blob/main/Upload%20Code/hide_keyboard.java)
  
+ To hide/show IME Option or input/keybord to the user
+ 
+### 2. Custom Date Picker : [Click Here](https://github.com/WackyCodes/AndroidUses/blob/main/Upload%20Code/custom_date_picker.java)
+
+ This Class is used to pick custome date with enabled or active and range.
+ 
+ Add below Dependency into your gradle file
+ `implementation 'com.wdullaer:materialdatetimepicker:4.2.3'`
+
+ Doc URL : https://github.com/wdullaer/MaterialDateTimePicker#additional-options
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
 ***
 
 Hello, I'm Shailendra Lodhi from Bhopal, India.
