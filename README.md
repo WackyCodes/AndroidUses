@@ -21,6 +21,10 @@ So check below links.
 ### 4. Backgounds Resource :
  [Click Here](https://github.com/WackyCodes/AndroidUses/tree/main/Backgrounds%20-%20Buttons%2C%20TextView%2C%20EditText%20etc)
  
+ 
+### 5. Hide Keyboard / IME Option :
+ [Click Here](https://github.com/WackyCodes/AndroidUses/blob/main/Upload%20Code/hide_keyboard.java)
+ 
 ***
 
 Hello, I'm Shailendra Lodhi from Bhopal, India.
