@@ -5,8 +5,7 @@
 You can get Android useful resources with the help of this repository.
 So check below links.
 
-[XML Resouce](https://github.com/WackyCodes/AndroidUses#xml-resource)   -|-  [Java Resource](https://github.com/WackyCodes/AndroidUses#java-resource)  -|- [More Docs - Wiki]
-(https://github.com/WackyCodes/AndroidUses/wiki)
+[XML Resouce](https://github.com/WackyCodes/AndroidUses#xml-resource)   -|-  [Java Resource](https://github.com/WackyCodes/AndroidUses#java-resource)  -|- [More Docs - Wiki](https://github.com/WackyCodes/AndroidUses/wiki)
 ***
 
 ### XML Resource
