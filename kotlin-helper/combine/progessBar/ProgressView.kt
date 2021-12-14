@@ -10,7 +10,8 @@ class ProgressView : Dialog {
         requestWindowFeature( Window.FEATURE_NO_TITLE )
         setContentView( R.layout.layout_dialog_progress )
         window?.setLayout( ViewGroup.LayoutParams.WRAP_CONTENT, ViewGroup.LayoutParams.WRAP_CONTENT )
-        setCancelable(true)
+        // TODO : Update setCancelable according to you!
+        setCancelable(false)
     }
 
     // Optional
