@@ -23,26 +23,27 @@ So check below links.
  
  
 ### 3. Animation Resource :
- [Click Here](https://github.com/WackyCodes/AndroidUses/tree/main/Animation%20XML%20Files)
+ [Click Here](https://github.com/WackyCodes/AndroidUses/tree/main/xml%20files/Animation%20XML%20Files)
  
  
 ### 4. Backgounds Resource :
- [Click Here](https://github.com/WackyCodes/AndroidUses/tree/main/Backgrounds%20-%20Buttons%2C%20TextView%2C%20EditText%20etc)
+ [Click Here](https://github.com/WackyCodes/AndroidUses/tree/main/xml%20files/Backgrounds%2C%20Buttons%2C%20TextView%2C%20EditText%20etc)
  
 ***
 ***
 ### Java Resource
 -----------------------------
  
-### 1. Hide Keyboard / IME Option : [Click Here](https://github.com/WackyCodes/AndroidUses/blob/main/Upload%20Code/hide_keyboard.java)
+### 1. Hide Keyboard / IME Option : [Click Here](https://github.com/WackyCodes/AndroidUses/blob/main/Java-helper/hide_keyboard.java)
  
  To hide/show IME Option or input/keybord to the user
  
-### 2. Custom Date Picker : [Click Here](https://github.com/WackyCodes/AndroidUses/blob/main/Upload%20Code/custom_date_picker.java)
+### 2. Custom Date Picker : [Click Here](https://github.com/WackyCodes/AndroidUses/blob/main/Java-helper/custom_date_picker.java)
 
  This Class is used to pick custome date with enabled or active and range.
  
  Add below Dependency into your gradle file
+ 
  `implementation 'com.wdullaer:materialdatetimepicker:4.2.3'`
 
  Doc URL : https://github.com/wdullaer/MaterialDateTimePicker#additional-options
